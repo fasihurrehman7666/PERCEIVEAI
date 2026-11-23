@@ -1,0 +1,7 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "max_len": 128,
+  "cons_threshold": 0.45,
+  "head_blend": 0.5,
+  "proto_temp": 0.07
+}
